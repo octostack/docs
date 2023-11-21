@@ -1,6 +1,6 @@
 # Documentation
 
-## Vendors
+## Third Party Integrations
 
 - Namecheap
 - Cloudflare
